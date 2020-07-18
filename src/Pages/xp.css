@@ -1,0 +1,222 @@
+/*.boxs {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background: white;
+  margin: 40px auto;
+}
+
+.boxs ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.boxs ul li {
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 60px;
+
+  width: 700px;
+  height: 400px;
+  background: #ebecf0;
+  box-sizing: border-box;
+  border: 2px solid white;
+}
+
+.boxs ul li:hover {
+  opacity: 0.9;
+  transform: scale(1);
+  background: #ebecf0;
+  box-shadow: 2px 2px 2px #000;
+}
+*/
+* {
+  animation: slide 0.5s ease-in;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(-10px);
+  }
+
+  60% {
+    transform: translateX(0px);
+  }
+
+  100% {
+    transform: ;
+  }
+}
+
+.joblocation {
+  line-height: 1.5;
+  user-select: none;
+
+  color: rgb(156, 13, 49);
+  box-sizing: inherit;
+  margin: 10px 0;
+  font-family: Quicksand, Arial, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.jobinfo {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: #000;
+  box-sizing: inherit;
+  position: relative;
+  width: 100%;
+  margin: auto;
+  height: 6rem;
+  text-align: center;
+}
+
+.subjobinfo {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: #000;
+  box-sizing: inherit;
+  height: 6rem;
+  text-align: center;
+}
+
+.jtitle {
+  line-height: 1.5;
+  user-select: none;
+  color: red;
+  box-sizing: inherit;
+  margin: 10px 0;
+  font-size: 1.1rem;
+  font-family: Quicksand, Arial, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 1rem;
+}
+
+.econt {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  user-select: none;
+  box-sizing: inherit;
+  display: block;
+  margin: 20px;
+  margin-left: 150px;
+  padding: 1rem;
+  overflow: visible;
+  width: 85%;
+  height: 25rem;
+  background: #f5fefd;
+  color: #000;
+
+  margin-bottom: 100px;
+}
+.erow {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  user-select: none;
+  box-sizing: inherit;
+  display: block;
+  padding: 1rem;
+  margin-bottom: 100px;
+  overflow: visible;
+  width: 85%;
+  height: 27.5rem;
+  background: #f1f3f2;
+  color: #000;
+}
+
+.xpcont {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  user-select: none;
+  box-sizing: inherit;
+  width: 60rem;
+  height: 320rem;
+  margin: auto;
+}
+
+.edetails {
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: rgb(18, 65, 134);
+  box-sizing: inherit;
+  padding: 1rem;
+  text-align: center;
+  width: 42.5rem;
+  margin: auto;
+}
+
+.epdetails {
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: rgb(18, 65, 134);
+  box-sizing: inherit;
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.eppdetails {
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: rgb(18, 65, 134);
+  box-sizing: inherit;
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 70px;
+  margin-bottom: 5px;
+}
+
+.ecomph1 {
+  line-height: 1.5;
+  text-align: center;
+  user-select: none;
+  color: rgb(156, 13, 49);
+  box-sizing: inherit;
+  font-size: 24px;
+  margin: 10px 0;
+  font-family: Quicksand, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.epdetailss {
+  line-height: 1.5;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  user-select: none;
+  color: rgb(18, 65, 134);
+  box-sizing: inherit;
+  text-align: justify;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}

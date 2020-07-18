@@ -1,0 +1,8 @@
+   <div className="pr">
+        <div className="container">
+          <img src={ledaoff} className="image"></img>
+          <div className="overlay overleft">
+            <div className="text">Left</div>
+          </div>
+        </div>
+   
