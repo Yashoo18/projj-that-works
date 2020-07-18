@@ -3,12 +3,10 @@ import "./about.css";
 import me from "../img/me.jpg";
 function About() {
   return (
-    <div className="pc1">
-      <div className="pr1">
-        <div className="container1">
-          <img src={me} className="image"></img>
-        </div>
-      </div>
+    < div className="pr1" >
+      <img src={me} className="image"></img>
+
+
 
       <div className="container1">
         <div>
@@ -37,7 +35,8 @@ function About() {
           </h3>
         </div>
       </div>
-    </div>
+    </div >
+
   );
 }
 
