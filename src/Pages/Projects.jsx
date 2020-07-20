@@ -94,7 +94,7 @@ function Xp() {
           <p>
             - Developed an application which allows user to enter data as tables and stores the data in a PostgreSQL database located in
 a docker container and exposed it as a REST app.</p>
-          <p>- Created front end UI using React.js forms and hooks and deployed the application in Amazon Elastic Beanstalk..</p>
+          <p>- Created front end UI using React.js forms and hooks and deployed the application in Amazon Elastic Beanstalk.</p>
         </div>
       </div>
 
@@ -193,7 +193,7 @@ a docker container and exposed it as a REST app.</p>
       </h2>
           <h3>Project Type - Personal Website</h3>
           <p>
-            - Much bigger react project, a culmination of all the stuff I learnt, used every concept including API parsing, react hooks (componentmount, didupdate), proptypes, state management.The official language is Slovak.</p>
+            - Much bigger react project, a culmination of all the stuff I learnt, used every concept including API parsing, react hooks (componentmount, didupdate), proptypes, state management.</p>
           <p>- Includes basic css tricks to make it look better, assign different style to every fifth box.</p>
         </div>
       </div>
@@ -223,7 +223,7 @@ a docker container and exposed it as a REST app.</p>
             Simple Checklist
       </h2>
           <h3>Project Type - Personal Website</h3>
-          <p> - A very basic todolist, just to start off with react and understanding core concepts like hooks and proptypes..</p>
+          <p> - A very basic todolist, just to start off with react and understanding core concepts like hooks and proptypes.</p>
         </div>
       </div>
 
