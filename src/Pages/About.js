@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import me from "../img/me.jpg";
+import me from "../img/mypicmypic.jpg";
 function About() {
   return (
     < div className="pr1" >
